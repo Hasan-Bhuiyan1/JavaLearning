@@ -1,6 +1,8 @@
 # JavaLearning
 
-This is a teeest
+This is a test
 
-This is another teseet
+This is another test
+
+adding a line per your request 
 
